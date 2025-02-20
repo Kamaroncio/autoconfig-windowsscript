@@ -1,2 +1,2 @@
 # autoconfig-windowsscript
-i use choco and windscript to create it
+i use choco and winscript to create it
